@@ -1,8 +1,8 @@
-## The Examples for React Redux with auto testing
+# The Examples for React Redux with auto testing
 * Counter
 * ...
 
-# Counter
+## Counter
 * run
   * npm run counter
 * test
